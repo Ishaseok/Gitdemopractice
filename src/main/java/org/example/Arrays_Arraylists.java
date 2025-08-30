@@ -40,4 +40,5 @@ public class Arrays_Arraylists {
         }
 
     }
+    // Function of Array and Arraylists
 }
