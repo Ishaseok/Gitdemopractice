@@ -11,6 +11,10 @@ public class Arrays_Arraylists {
         // Example
 
         int[] numbers = new int[5];
+        int[] rollno={6,8,7,1};
+
+        int[] rolno; //declaration of data type of array
+        rollno=new int[4]; //initiation and creation of object
 
         // Assigning values to array elements
 
@@ -41,4 +45,5 @@ public class Arrays_Arraylists {
 
     }
     // Function of Array and Arraylists
+
 }
